@@ -1,0 +1,5 @@
+-Fixed background following scroll, but absolute cuts(probably most easily solved through making a masked image in photoshop) 
+-width lock at certain resolutions not optimal need a container for everything then work down from there
+-plans container no transition between color highlight
+-language dropdown doesn't center(removing all styling from elsewhere does not fix)(browser issue maybe?)
+-get started 2 animation on parent top reach and enable background color when scroll
